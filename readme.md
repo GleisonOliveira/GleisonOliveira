@@ -1,6 +1,6 @@
 ![image](https://github.com/GleisonOliveira/GleisonOliveira/assets/12660785/0aea561c-c50c-4c6e-ac7b-028612cf2261)
 
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)meu nome é Gleison 😄
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), meu nome é Gleison 😄
 ===============================================================================================================================
 
 Desenvolvedor Full stack, bacharel em Sistemas de Informação e pós graduado nas áreas de User experience, Tecnologias para Aplicações Web e Desenvolvimento Web FullStack.
